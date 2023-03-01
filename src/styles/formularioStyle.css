@@ -1,0 +1,53 @@
+/* .container{
+    background-color: #500000;
+    color: white;
+    width: 650px;
+    height: 500px;
+    border-radius: 20px;
+    padding-left: 5px;
+    
+}
+.nombre{
+    color: white;
+    
+}
+
+.principal{
+    text-align: center;
+}
+
+.datos{
+    text-align: left;
+    font-size: 20px;
+}
+
+.boton{
+    padding: 25px 0 0 0;
+    
+    position: absolute;
+    top: 480px;
+    left: 285px;
+    
+}
+
+
+
+button{
+    padding: 25px;
+    background-color: #100000;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+input[type=text],select{
+    width: 99%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+} */
